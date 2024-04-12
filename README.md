@@ -1,1 +1,1 @@
-# how
+D-wave pairing
